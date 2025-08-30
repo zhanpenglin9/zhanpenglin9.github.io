@@ -10,14 +10,13 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zhanpenglin9", "url": "http://github.com/zhanpenglin9" },
-      { "network": "linkedin", "username": "Zhanpeng Lin", "url": "https://www.linkedin.com/in/zhanpeng-lin-11b612380/" },
+      { "network": "linkedin", "username": "Zhanpeng Lin", "url": "www.linkedin.com/in/zhanpeng-lin-11b612380" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Game Devolpment" },
+    { "name": "Playing instruments" },
+    { "name": "Studying Econimics" },,
     { "name": "3D Graphics" }
   ],
   "skills": [
