@@ -11,7 +11,7 @@ labels:
 summary: "A Project implemented in Unix in C"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/C.png">
 
 This is a project I did back in ics 212. The coding and implmentation wasn't done in a IDE but with command prompt at the unix server UH provided us with. This was a really intrsting experince for me since this was my first class where we had to code outside of a IDE.
 
