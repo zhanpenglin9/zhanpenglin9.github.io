@@ -11,7 +11,7 @@ labels:
 summary: "A final project project for a high school coding class. My first inroduction to a long project"
 ---
 
-<img class="img-fluid" src="../img/9639819.png">
+<img class="img-fluid d-block mx-auto" src="../img/9639819.png" alt="Centered image">
 
 This is the final project I had to do for my high school coding class and was my inrodction to coding a big project. 
 
