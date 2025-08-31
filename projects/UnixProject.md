@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/unix.png
 title: "Unix Project"
 date: Fall 2024 
 published: true
