@@ -24,5 +24,3 @@ Looking back at it now the code defnenly have a lot of things I can do better at
 This a part of the code I use in the project: 
 
 {% gist 369ad466feb7cc7b3d88f3151d7d9a6e %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
