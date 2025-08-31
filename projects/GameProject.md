@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/9639819.png
 title: "Game Project"
 date: March 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A final project project for a high school coding class. My first inroduction to a long project"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/9639819.png">
 
 This is the final project I had to do for my high school coding class and was my inrodction to coding a big project. 
 
