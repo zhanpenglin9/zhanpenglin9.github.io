@@ -11,8 +11,6 @@ labels:
   - The Start
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 *Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
 Ever since I heard of the conect of coding when I was still in elementry I was intrested in the conecpt. But durring that time I always view it as something that is a but out of reach. Since the idea of programming with ones and zeros sounds like a headache to me at the time. 
