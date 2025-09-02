@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering, The Start of the Dream"
+title: "Software Engineering, The Start"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-31
 published: true
@@ -35,10 +35,10 @@ But the thing I most want to be able to work on are skills related to game devel
 
 ## Hope for the future
 
+<img width="200px" class="rounded float-start pe-4" src="../img/checklist.png">
+
 My current plan for the future is to keep honing my programming skills and work on getting use to working on different types of prjects. I would like to be able to get a entry level job in programming after graduating college and getting my degree. I would like to gain more coding experince this way and improve my skills as a programer and look for different opportunities along the way. 
 
 After this I would like to be able to also work on some personal prjects and if things worked well build a career I can live off and enjoy with the information and skills I learn over the years.
 
 I believed that this is the path I would like to go down that I would enjoy and ultimately able to build a career out of.
-
-<img width="200px" class="rounded float-start pe-4" src="../img/checklist.png">
