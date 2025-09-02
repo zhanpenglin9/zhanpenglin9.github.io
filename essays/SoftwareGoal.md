@@ -40,3 +40,5 @@ My current plan for the future is to keep honing my programming skills and work 
 After this I would like to be able to also work on some personal prjects and if things worked well build a career I can live off and enjoy with the information and skills I learn over the years.
 
 I believed that this is the path I would like to go down that I would enjoy and ultimately able to build a career out of.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/checklist.png">
