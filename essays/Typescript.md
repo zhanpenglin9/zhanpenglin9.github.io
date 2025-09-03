@@ -19,7 +19,7 @@ This is the first time I ever use typescript and my first impression is it feels
 \
 \
 \
-\
+
 
 ## The Differences
 
