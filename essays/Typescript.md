@@ -13,7 +13,8 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/typescript-javascript-1024x577.jpg">
 
-This is the first time I ever use typescript and my first impression is it feels really different from what I'm use too. But there's also many fimliar things to other programming language I use in the past as well. Overall it feels decenlty new but still manageable.\\\\
+This is the first time I ever use typescript and my first impression is it feels really different from what I'm use too. But there's also many fimliar things to other programming language I use in the past as well. Overall it feels decenlty new but still manageable.\
+\
 
 
 
