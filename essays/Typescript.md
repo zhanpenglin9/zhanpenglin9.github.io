@@ -17,6 +17,10 @@ This is the first time I ever use typescript and my first impression is it feels
 \
 \
 \
+\
+\
+\
+
 ## The Differences
 
 One of the biggest differences I found intrsting about typescript is the way they handle datatypes. For most of the coding languages I use before we needed to include a datatype or else the code will usally throw an error. But typescript threw a curve ball with it being able to work even without explicitly including the datatype. I understand it's still a good idea to include it anyway but I did found it really intrsting that it will allow you to create a variable without including the datatype yourself.
