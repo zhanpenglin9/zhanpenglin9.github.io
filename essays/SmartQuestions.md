@@ -42,7 +42,7 @@ Is it possible to disable automatic color inversion in iOS 26 UINavigationBar wh
 This is a good question since the title of the post is straight to the point and professional. It includes the version of iOS they were using and what they were trying to do. In the actual post they included the goal they were trying to accomplish and the steps they've taken so far. They also showed that they have done their own research before this like checking in the documentations. 
 
 ## Example: Bad Question 
-
+<br><br>
 <img width="300px" class="rounded float-start pe-4" src="../img/Eo_circle_red_letter-x.svg.png">
 
 [Example](https://stackoverflow.com/questions/79759544/extract-data-from-pdf-and-convert-them-to-class)
