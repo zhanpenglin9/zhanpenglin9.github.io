@@ -31,7 +31,7 @@ Besides that you also need to ask the question in an appropriate place. Asking t
 
 ## Example: Good Question 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Eo_circle_green_white_checkmark.svg.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Eo_circle_green_white_checkmark.svg.png">
 
 [Example](https://stackoverflow.com/questions/79759524/ios-26-disable-uinavigationbar-titleview-automatic-color-inversion)
 
@@ -40,10 +40,10 @@ Q: iOS 26 Disable UINavigationBar titleView automatic color inversion
 Is it possible to disable automatic color inversion in iOS 26 UINavigationBar which is triggered by the system depending on background? Can't find any new method in documentation for that.
 
 This is a good question since the title of the post is straight to the point and professional. It includes the version of iOS they were using and what they were trying to do. In the actual post they included the goal they were trying to accomplish and the steps they've taken so far. They also showed that they have done their own research before this like checking in the documentations. 
-<br><br>
+<br><br><br><br>
 ## Example: Bad Question 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Eo_circle_red_letter-x.svg.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Eo_circle_red_letter-x.svg.png">
 
 [Example](https://stackoverflow.com/questions/79759544/extract-data-from-pdf-and-convert-them-to-class)
 
