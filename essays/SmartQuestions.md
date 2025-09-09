@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart Question: Think Before Ask"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-08
 published: true
@@ -11,89 +11,53 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+## What is a Stupid Question and a Smart Question?
 
-## Is there such thing as a stupid question?
+What is a stupid question? Is there such a thing as a stupid question? My answer to this question is always yes, since I've seen some questions that have left me speechless over the years. However, after reading and studying over the subject I've learned that this subject goes a lot deeper than what I first thought. 
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+From what I have learned from Eric Steven Raymond's writing, what a stupid question is more than just the problem you're asking. It also includes the way you ask it, the knowledge and your attitude toward the question. 
 
-## What’s a smart question?
+A stupid question is not only the information contained in the question but also how you present it. Things like the grammar and the way you title the questions also matters. Titles that have useless information like "please help" or "need help!" are not recommended as they can waste time. Also having words like urgent can be viewed as being rude and impolite. Poor grammar can also be a big problem as it shows you are a sloppy person and might now be worth people's time helping. 
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+As for the actual content of the question, it shouldn't be unclear and shouldn't be a block of words. It should include first the goal you're trying to accomplish then the steps you've taken and attempted so far. You should also include things like where you encounter the problem like what software you're using and what version it's on. 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+You should also make it so there's an easy way to reply to your question. You shouldn't ask them to email you the answer unless you have a reason like the information needs to stay classified. 
 
-```
-Q: python date of the previous month
+## When and Where to Ask the Question?
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+Besides the content of the question, when you should ask the question also matters. You should only go and ask a question when you know you've done all that you could. Such as things like reading the manual and doing research yourself. This is so you've shown that the question you're asking isn't already easily accessible and that you're not wasting other people's time.
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
+Besides that you also need to ask the question in an appropriate place. Asking the question at the wrong place or forum can cause your question being removed or being shown to the wrong person.
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+## Example: Good Question 
 
-I have solved this trouble in bash with:
+<img width="300px" class="rounded float-start pe-4" src="../img/Eo_circle_green_white_checkmark.svg.png">
 
-echo $(date -d"3 month ago" "+%G%m%d")
+[Example](https://stackoverflow.com/questions/79759524/ios-26-disable-uinavigationbar-titleview-automatic-color-inversion)
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+Q: iOS 26 Disable UINavigationBar titleView automatic color inversion
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
+Is it possible to disable automatic color inversion in iOS 26 UINavigationBar which is triggered by the system depending on background? Can't find any new method in documentation for that.
 
-Thanks for your help!
-```
+This is a good question since the title of the post is straight to the point and professional. It includes the version of iOS they were using and what they were trying to do. In the actual post they included the goal they were trying to accomplish and the steps they've taken so far. They also showed that they have done their own research before this like checking in the documentations. 
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+## Example: Bad Question 
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
+<img width="300px" class="rounded float-start pe-4" src="../img/Eo_circle_red_letter-x.svg.png">
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+[Example](https://stackoverflow.com/questions/79759544/extract-data-from-pdf-and-convert-them-to-class)
 
-Like this:
+Q: Extract Data From Pdf and Convert them To Class
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+I Extract data from Pdf and I want to convert them to into an class so how to do I have big Messy Data and how to work with this messy Data and then Convert them into python class
 
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+I use Pydantic class in python for this but that didnt work
 
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+This is an example of a bad question since one the content of the actual question is unclear. It does not clearly state the goal they were trying to accomplish. Neither did it clearly state the steps they tried so far, instead only describing it as "Messy Data". It is also hard to read since they have many grammar errors in the question. This a great example of what not to do when asking a question and a great way to get ignored as proven with the question getting no response in Stack.
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+In conclusion, when trying to ask a question the way you ask it is really important. You need to make sure it is clearly stated with the right details included. It should be professional and straight to the point. It should be easy to reply to the post and shouldn't have anything that can be considered as rude like the term "urgent". The question should include where the problem is happening like what software you are using and what version it's on. The question should show you have done your part in trying to solve the question and that you are worth the time answering the question. It shouldn't have things like grammar issues and other things that show you don't care much about the problem yourself.
+
+Overall, when asking a smart question one should follow the guidelines listed on top and be prepared to be ignored or their question being removed from forums when they don't. When it comes to asking a question, how you're asking is just as important as what you're asking.
+
