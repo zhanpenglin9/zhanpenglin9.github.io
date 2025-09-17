@@ -8,27 +8,27 @@ published: true
 labels:
   - C
   - Unix
-summary: "A Project implemented in Unix in C"
+Summary: "A Project implemented in Unix in C"
 ---
 
 <img class="img-fluid d-block mx-auto" src="../img/C.jpg" alt="Centered image">
 
-This is a project I did back in ics 212. The coding and implmentation wasn't done in a IDE but with command prompt at the unix server UH provided us with. This was a really intrsting experince for me since this was my first class where we had to code outside of a IDE.
+This is a project I did back in ICS 212. The coding and implementation weren't done in an IDE but with the command prompt at the Unix server UH provided us with. This was a really interesting experience for me since this was my first class where we had to code outside of an IDE.
 
 The project had us create a user interface with 5 options:
 
   1. Add - add an account with a name and an address
   2. Find - find a certain account and print it
-  3. Printall - print all account
+  3. Printall - Print all accounts
   4. Delete - delete an account
   5. Quit - end the program
 
-We had to implement each of the following fucntion as well as making sure we have a way to save all the non deleted data when we boot up the program after we end it.
+We had to implement each of the following functions, as well as make sure we have a way to save all the non-deleted data when we boot up the program after we end it.
 
-This project give me a chance to work with unix and C in a way where I can actually test what I've learn and what I still need to work on. We had to work with a few different files and compile them together to make our program. We also went over how to implement a debugged mode in the program. 
+This project gives me a chance to work with Unix and C in a way where I can actually test what I've learn and what I still need to work on. We had to work with a few different files and compile them together to make our program. We also went over how to implement a debug mode in the program. 
 
-Overall it really help me understand coding in a unix enviorment a lot more and how coding with an older coding language like C feels like.
+Overall, it really helped me understand coding in a Unix environment a lot more and how coding with an older coding language like C feels like.
 
-This a part of the code I use in the project:
+This is a part of the code I use in the project:
 
 {% gist cafefdadb70fdc48248986fbc6e3eb7e %}
