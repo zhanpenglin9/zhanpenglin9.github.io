@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineering, The Start"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-31
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
