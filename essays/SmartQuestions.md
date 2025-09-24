@@ -4,7 +4,7 @@ type: essay
 title: "Smart Question: Think Before Ask"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-08
-published: true
+published: false
 labels:
   - Questions
   - Answers
