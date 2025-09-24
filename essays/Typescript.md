@@ -4,7 +4,7 @@ type: essay
 title: "A Peek Into Typescript "
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-02
-published: false
+published: true
 labels:
   - Software Engineering
   - Typescript
