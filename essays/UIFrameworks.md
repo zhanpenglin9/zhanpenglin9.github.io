@@ -17,7 +17,7 @@ This is the first time I have ever encountered Bootstrap, and I can see how it c
 
 <img width="300px" class="rounded float-start pe-4" src="../img/Screenshot (58).png">
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Screenshot (59).png"> <br><br><br><br><br><br><br><br><br><br><br><br>
+<img width="300px" class="rounded float-start pe-4" src="../img/Screenshot (59).png"> <br><br><br><br><br><br><br><br>
 
 
 ## Advantages
