@@ -11,11 +11,13 @@ labels:
   - Reflection
 ---
 
+
+
+This is the first time I have ever encountered Bootstrap, and I can see how it can save time and trouble when writing HTML code and designing a website or UI. But as I use it I also did find some limits it can have espically when you want something to look exactly how you want it to be.
+
 <img width="300px" class="rounded float-start pe-4" src="../img/Screenshot (58).png">
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Screenshot (59).png">
-
-This is the first time I have ever encountered Bootstrap, and I can see how it can save time and trouble when writing HTML code and designing a website or UI. But as I use it I also did find some limits it can have espically when you want something to look exactly how you want it to be.<br><br><br><br><br><br>
+<img width="300px" class="rounded float-start pe-4" src="../img/Screenshot (59).png"> <br><br><br><br><br><br>
 
 
 ## Advantages
