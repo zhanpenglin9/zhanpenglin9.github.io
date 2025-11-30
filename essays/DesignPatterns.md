@@ -1,18 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Coding Style: Nuisance or Necessity "
+title: "Design Patterns: A Blueprint to Blueprints "
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-23
+date: 2025-11-30
 published: true
 labels:
-  - Coding Style
-  - Coding Standards
-  - Typescript
+  - Design Patterns
   - Reflection
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/codingStandarImg.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/DesginPattern.jpg">
 
 This isn't the first time I've had to follow a certain type of coding style, and I'm sure it won't be the last. And I will say that at first, the idea of having to code in a pre-set style does feel like quite a hassle and annoying at times. But as I code more and learn more about coding style, I start to understand why they are important and more and more get used to them<br><br><br><br><br><br>
 
