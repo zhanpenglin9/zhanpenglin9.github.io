@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns: A Blueprint to Blueprints "
+title: "Effort Estimation Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2025-11-30
 published: true
 labels:
-  - Design Patterns
+  - Effort Estimation
   - Reflection
 ---
 
