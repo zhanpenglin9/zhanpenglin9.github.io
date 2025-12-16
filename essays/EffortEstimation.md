@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Effort Estimation Reflection"
 # All dates must be YYYY-MM-DD format!
-date: 2025-11-30
+date: 2025-12-14
 published: true
 labels:
   - Effort Estimation
