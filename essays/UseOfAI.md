@@ -11,7 +11,7 @@ labels:
 ---
 ## I. Introduction
 
-AI is a really new tool for many different fields, and one of them is education. It's a tool that can understand what you're trying to look for and summarize the information for you quickly, saving you the hassle of googling everything and trying to find a match. However, this can also become of handiness when the AI gets misinformation or makes a mistake, so one can lose the skill to do research without it. The AI I had used for this call is ChatGPT<br><br><br><br><br><br>
+AI is a really new tool for many different fields, and one of them is education. It's a tool that can understand what you're trying to look for and summarize the information for you quickly, saving you the hassle of googling everything and trying to find a match. However, this can also become of handiness when the AI gets misinformation or makes a mistake, so one can lose the skill to do research without it. The AI I had used for this call is ChatGPT<br><br>
 
 
 ## II. Personal Experience with AI
