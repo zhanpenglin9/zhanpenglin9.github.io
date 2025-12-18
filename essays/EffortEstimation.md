@@ -10,23 +10,41 @@ labels:
   - Reflection
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/DesginPattern.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/stopwatch-logo-icon-vector.jpg">
 
-This is the first time I've heard of the concept of design patterns. The concept is really interesting, and I can see how it can be useful when facing different issues while coding. Using different design patterns can help make the coding process a lot smoother and easier. It can also help you recreate many objects and functions for later use when facing similar problems you've encountered before.<br><br><br><br><br><br>
+This is the first time I had to actually take notes and make an effort estimation but I have made estimation before starting to work on a project before. Even though 
+
+Most of the time it's just a rough estimation after reading the instructions with no documentation but the process is similar. But this project was the first time
+
+I actually wrote everything down and it had seemed really useful.<br><br><br><br><br><br>
 
 
-## Ueses of Design Patterns
+## 1. How did I make Effort Estimates
 
-The primary purpose of a design pattern is to simplify the process of designing objects and functions by reusing design ideas for common coding problems. It can be used to provide inspiration on how to design one's own code for a common problem and how to improve one's code. It can also be used to provide a different perspective on a problem and find a more effective solution. They are templates for different problems and overall ideas on how you can solve them.
+The way I make my estimation is first read through all the instructions of a task and divide them into different smaller sections. Afterward I make a general demonstration on the 
 
-## Examples of Design Patterns
+longer side then add a couple minutes in case of unexpected issues. Afterward I add them all up and round them to the closest hour or half hour to make my estimation.
 
-When it comes to design patterns, they can be separated into 3 different types: creational, structural, and behavioral. With creational being how to create objects, structural being how to represent and organize them, and behavioral being how they should interact with each other. Some examples of these can be of the Factory Pattern for creational patterns, which helps in creating objects without specifying the exact class. Two, the Adapter Pattern for structural patterns, which allows incompatible interfaces to work together. And three the Observer Pattern for behavioral patterns, which lets objects communicate changes to each other automatically.
+## 2. Benefits even if Estimation was Wrong
 
-## Application in Web Design
+Some benefits it provided me was it can make my next estimation a bit more accurate. Since I documented everything this time I can check on how long it took me on similar work load
 
-An example of the idea of design patterns in web design can be seen in frameworks like Bootstrap 5, where many of the prebuilt components and styles are solutions to common problems, such as creating responsive layouts or consistent UI elements. In a similar way, software design patterns offer reusable solutions to recurring coding problems. Another example can be the WODs that we did of trying to recreate different web pages. Even though the WODs are trying to recreate the webpage one to one, the prossess of doing so and the common issues we needed to fix can be an example of using desgin patterns. 
+and make a better estimation on how much time I need next time. It can also help me tweak how much I'm estimating like how long I should expect an unexpected issue would take to fix.
 
-## Overall View
+## 3. Was tracking Actual Effort 
 
-Overall, design patterns are a really useful concept for programers to use. It can be use to help provide intuition to different problems being face and provide make the programming prossess a lot more smoother. It can also help you translate old work from past projects to new programs and applications, saving a lot of time and effort. All in all, design patterns are a great tool and can help save a lot of headaches while programming.
+Tracking the actual effort was useful since it gave me a way to compare my estimation and judge if I over or under estimated.
+
+This helped me set better estimations and consider why my estimation might be off.
+
+## 4. How I Track My Actual Effort
+
+I would write down the start time of when I start working and the end time. Then do the calculation afterward. If I needed to leave in the middle I would record 
+
+the time of leaving and when I return then calculate the total work time.
+
+## 5. Reflection
+
+Next time I would make my estimation a bit more generous with the time and also give more time of subjects that I'm not to confident about.
+
+Since more of the issue with the estimation was bugs and issues that I didn't know would happen before hand.
