@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/9639819.png
+image: img/Screenshot_17-12-2025_155915_pseudo-hacc-ets.vercel.app.jpeg
 title: "HACC Website Project"
 date: December 2025
 published: true
@@ -14,7 +14,7 @@ Summary: "A final project for a ICS 314"
 
 This was the main project the entire semester was building toward for ICS 314. For this project we needed to decide on a website to make use of the skills we learn this semester and since 2 of our group members are doing HACC we decided to use that as our project.
 
-<img class="img-fluid d-block mx-auto" src="../img/Screenshot_17-12-2025_155136_pseudo-hacc-ets.vercel.app.jpeg" alt="Centered image" style="height: 300px;"/>
+<img class="img-fluid d-block mx-auto" src="../img/Screenshot_17-12-2025_155915_pseudo-hacc-ets.vercel.app.jpeg" alt="Centered image" style="height: 300px;"/>
 
 The goal of this website was to make a system where vendors are able to submit monthly reports in a standardized format since currently each vendor has their own style which makes reading all the reports a bit of a pain. 
 
@@ -32,7 +32,7 @@ These are some pages of the final website:
 
 <img class="img-fluid d-block mx-auto" src="../img/Screenshot_17-12-2025_16013_pseudo-hacc-ets.vercel.app.jpeg" alt="Centered image" style="height: 300px;">
 
-<img class="img-fluid d-block mx-auto" src="../img/Screenshot_17-12-2025_155915_pseudo-hacc-ets.vercel.app.jpeg" alt="Centered image" style="height: 300px;">
+<img class="img-fluid d-block mx-auto" src="../img/Screenshot_17-12-2025_155136_pseudo-hacc-ets.vercel.app.jpeg" alt="Centered image" style="height: 300px;">
 
 <img class="img-fluid d-block mx-auto" src="../img/Screenshot_17-12-2025_155858_pseudo-hacc-ets.vercel.app.jpeg" alt="Centered image" style="height: 300px;">
 
